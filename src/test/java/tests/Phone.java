@@ -7,5 +7,5 @@ public class Phone {
     public static void main(String[] args) {
         Driver.getDriver().get("https://google.com");
     }
-    //git@github.com:SaikalOrozonova/CucumberAutomation.git
+
 }
